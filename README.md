@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Juanes Atehortua</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12115664?v=4" width="100" alt="Juanes Atehortua" style="border-radius: 8px;"/>
+</p>
+
+---
+
+- [x] Make this readme
+- [ ] Improve this readme
+- [ ] Fix the code formatting
 
 <!--
 **JuanesMedCol/JuanesMedCol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
